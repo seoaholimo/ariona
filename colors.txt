@@ -1,0 +1,2 @@
+#0070c0 - blue
+ #7f7f7f- gray
